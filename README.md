@@ -89,8 +89,11 @@ This project automates the process of data cleaning, preprocessing, and report g
 The project generates:
 
 * Sales by Region Bar Chart
+* ![Sales by Region](sales_by_region.png)
 * Sales by Product Category Bar Chart
+* ![Sales by Category](sales_by_category.png)
 * Customer Type Distribution Pie Chart
+* ![Sales by Customer Type](sales_by_customer_type.png)
 
 ## Output Files
 
