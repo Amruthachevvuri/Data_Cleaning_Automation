@@ -1,0 +1,11 @@
+Product_ID,Sale_Date,Sales_Rep,Region,Sales_Amount,Quantity_Sold,Product_Category,Customer_Type
+P001,05-01-2025,Rahul,NORTH,5000.0,5,Electronics,Regular
+P002,06-01-2025,Anita,SOUTH,7000.0,7,Furniture,Premium
+P003,07-01-2025,Ravi,EAST,6630.0,4,Electronics,Regular
+P004,08-01-2025,Priya,WEST,6500.0,6,Furniture,Premium
+P005,09-01-2025,Arjun,NORTH,5500.0,5,Electronics,Unknown
+P006,10-01-2025,Meena,SOUTH,8000.0,8,Furniture,Regular
+P007,11-01-2025,Kiran,EAST,7200.0,7,Electronics,Premium
+P008,12-01-2025,Anita,WEST,6800.0,6,Furniture,Regular
+P009,13-01-2025,Rahul,NORTH,5900.0,5,Electronics,Premium
+P010,14-01-2025,Ravi,UNKNOWN,7600.0,7,Furniture,Regular
